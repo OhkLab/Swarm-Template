@@ -1,0 +1,29 @@
+{
+    "SelfAssembly": {
+        "checkpoints": [
+            {
+                "steps": 15730,
+                "file_path": "results/SelfAssembly/SelfAssembly/SelfAssembly-15730.onnx",
+                "reward": 28.70139284133911,
+                "creation_time": 1711427597.7104504,
+                "auxillary_file_paths": [
+                    "results/SelfAssembly/SelfAssembly/SelfAssembly-15730.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 15730,
+            "file_path": "results/SelfAssembly/SelfAssembly.onnx",
+            "reward": 28.70139284133911,
+            "creation_time": 1711427597.7104504,
+            "auxillary_file_paths": [
+                "results/SelfAssembly/SelfAssembly/SelfAssembly-15730.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1"
+    }
+}
